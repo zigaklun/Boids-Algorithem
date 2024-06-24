@@ -16,7 +16,9 @@ Več o Boidovem algoritmu : https://en.wikipedia.org/wiki/Boids
     ```bash
     git clone https://github.com/zigaklun/Boids-Algorithm.git
     ```
-2. V datoteki "Zgrajen Projekt" zaženite "BoidsAlgorith.exe". Odpru se bo kanvas z zagnano simulacijo.
+2. Namestite .NET 8.0 SDK 
+3. V datoteki "Zgrajen Projekt" zaženite "BoidsAlgorith.exe". Odpru se bo kanvas z zagnano simulacijo.
+   
 
 ## Struktura Projekta
 
