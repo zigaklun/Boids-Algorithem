@@ -1,4 +1,4 @@
-# Boids-Algorithem
+# Boids-Algorithm
 
 Ta projekt implementira algoritem boidov v jeziku C# z uporabo WPF (Windows Presentation Foundation) za vizualizacijo.
 
